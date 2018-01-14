@@ -1,0 +1,7 @@
+body {
+	font-family: arial;
+	background-color: rgb(100,100,100);
+}
+h2.subheader {
+	color: rgb(130,130,100);
+}

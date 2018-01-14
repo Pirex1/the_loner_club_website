@@ -1,0 +1,27 @@
+<!DOCTYPE HTML/>
+<HEAD>
+	<meta charset="utf-8">
+	<meta name = "description" content="gully shit">
+	<meta name = "author" content="THELONERCLUB">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+
+	<TITLE>THELONERCLUB</TITLE>
+	<link rel="stylesheet" type="text/css" href="css/stylesheet">
+	<link rel="shortcut icon" type="image/x-con" href="">
+</HEAD>
+<BODY>
+	<h1 class="mainheader">THE LONER CLUB</h1>
+	<h2 class="subheader">WE ARE WHAT WE ARE</h2>
+	<div id="header">
+		<p>
+		<a href="">MERCH</a>
+		<a href="">ABOUT</a>
+		<a href="">CONTACT</a>
+	</p>
+	</div>
+	
+
+	
+
+</BODY>
